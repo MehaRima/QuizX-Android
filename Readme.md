@@ -10,8 +10,8 @@
 -<li> <b>Results </b>– displays Results after finishing the quiz.
 -<li> <b>Developers </b>– displays the information about the developers.</ol>
 -
--## Sreenshot
--
+-# Screenshot 
+(Yet to update)
 -<p id="img_cont">
 -	<img src="/screenshot/pic11.png" width = "200" height= "350" hspace=40>
 -	<img src="/screenshot/pic22.png" width = "200" height= "350" hspace=40>
